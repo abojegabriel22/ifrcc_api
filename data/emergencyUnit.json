@@ -1,0 +1,42 @@
+db.emergency.insert([
+    {
+        "id":1,
+        "emergency_heading":"Team Leader",
+        "emergency_details":"The team leader should be an experienced chaplain with strong leadership skills. They will be responsible for coordinating and managing the emergency response team, ensuring effective communication, and making critical decisions during emergency situations"
+    },
+    {
+        "id":2,
+        "emergency_heading":"Crisis Intervention Chaplains",
+        "emergency_details":"These chaplains will be trained in crisis intervention techniques and will provide emotional and spiritual support to individuals affected by emergencies. They should have experience in dealing with trauma and be able to provide comfort and guidance to those in distress"
+    },
+    {
+        "id":3,
+        "emergency_heading":"Medical Chaplains",
+        "emergency_details":"Medical chaplains will have a background in healthcare and will provide spiritual support to patients, families, and medical staff during medical emergencies. They should be knowledgeable about medical procedures and able to offer prayers, rituals, and support to individuals facing critical health situations"
+    },
+    {
+        "id":4,
+        "emergency_heading":"Disaster Relief Chaplains",
+        "emergency_details":"These chaplains will be trained in disaster response and will provide spiritual care to individuals affected by natural disasters, such as hurricanes, earthquakes, or floods. They should be prepared to work in challenging environments and provide support to survivors, first responders, and volunteers"
+    },
+    {
+        "id":5,
+        "emergency_heading":"Mental Health Chaplains",
+        "emergency_details":"Mental health chaplains will have expertise in mental health issues and will provide spiritual support to individuals experiencing mental health crises. They should be familiar with mental health resources and be able to offer guidance and referrals to appropriate services"
+    },
+    {
+        "id":6,
+        "emergency_heading":"Emergency Communications Coordinator",
+        "emergency_details":"This team member will be responsible for managing communication during emergencies, ensuring effective coordination between the chaplain team, emergency services, and other relevant organizations. They should have strong communication skills and be able to relay critical information in a timely manner"
+    },
+    {
+        "id":7,
+        "emergency_heading":"Training and Preparedness Officer",
+        "emergency_details":"This team member will be responsible for organizing and conducting training sessions for the emergency response unit. They should stay updated on emergency response protocols, provide ongoing education to team members, and ensure the team is prepared to respond effectively to various emergency situations"
+    },
+    {
+        "id":8,
+        "emergency_heading":"Logistics and Support Coordinator",
+        "emergency_details":"This team member will handle logistics and support services during emergencies. They will be responsible for coordinating transportation, supplies, and other resources needed by the chaplain team. They should have strong organizational skills and be able to quickly mobilize resources in emergency situations"
+    }
+])

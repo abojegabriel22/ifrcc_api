@@ -1,0 +1,75 @@
+db.information.insert([
+    {
+        "information_id":1,
+        "information":"International first responder Chaplain corps",
+        "information_logo":"https://i.ibb.co/C60bwSt/ifrcc-logo2.png"
+    },
+    {
+        "information_id":2,
+        "information":"The International First Responder Chaplain Corps (IFRCC) is a global organization dedicated to providing spiritual and emotional support to first responders during times of crisis and emergency. The IFRCC blueprint outlines the structure, goals, and strategies of the organization."
+    },
+    {
+        "information_id":4,
+        "information":"image gallery",
+        "information_img":[
+            "https://i.ibb.co/0Q9fFB3/assembly.jpg",
+            "https://i.ibb.co/VM7NqM1/instrumentals.jpg",
+            "https://i.ibb.co/3dCmsH4/chaplaincy-1.jpg",
+            "https://i.ibb.co/FgC85Ss/line-ups.jpg",
+            "https://i.ibb.co/tHgp0PZ/men-on-whit.jpg",
+            "https://i.ibb.co/Z1CpY2q/pastoral-chap.jpg",
+            "https://i.ibb.co/rxJvMSJ/pastoral-t2.jpg",
+            "https://i.ibb.co/C80y0dr/pastoral-t.jpg",
+            "https://i.ibb.co/qrqH7zD/red-men.jpg",
+            "https://i.ibb.co/cC5CJKQ/award.jpg",
+            "https://i.ibb.co/C1XCJzs/back-img.jpg",
+            "https://i.ibb.co/KW7kHhb/certification.jpg",
+            "https://i.ibb.co/0MTM8C7/regional-cord.jpg",
+            "https://i.ibb.co/h2dFnm2/chairman.jpg",
+            "https://i.ibb.co/DYtmLBN/group-snap.jpg",
+            "https://i.ibb.co/j4M1b5g/response3.jpg",
+            "https://i.ibb.co/7nS1f5B/one-man.jpg",
+            "https://i.ibb.co/bbkSK4K/response6.jpg",
+            "https://i.ibb.co/P93yczv/response2.jpg",
+            "https://i.ibb.co/tpY3BTY/response1.jpg",
+            "https://i.ibb.co/K24xqzT/response7.jpg",
+            "https://i.ibb.co/CVp82pr/response8.jpg",
+            "https://i.ibb.co/4VyjkR7/response5.jpg"
+        ]
+    },
+    {
+        "information_id":5,
+        "information":"Community based programs"
+    },
+    {
+        "information_id":6,
+        "information":"Pastoral Education And Chaplaincy Training Units"
+    },
+    {
+        "information_id":8,
+        "information":"Operational Structure"
+    },
+    {
+        "information_id":9,
+        "information":"aims and objectives"
+    },
+    {
+        "information_id":10,
+        "information":[
+            {
+                "ifrcc_id":1,
+                "tell":7074741009,
+                "email": "frc.chaplain@gmail.com",
+                "address":"6730 4th Avenue Suite 113, Sacrament CA 95817 U.S.A"
+            }
+        ],
+        "ceo_information":[
+            {
+            "ceo_informationId":1,
+            "ceo_img":"https://i.ibb.co/6HZq5KZ/ceo-1.jpg",
+            "ceo_name":"Bishop Prof. Sunday Achi-Ayah",
+            "ceo_position":"International President/Chief of Chaplain"
+        }
+    ]
+    }
+])

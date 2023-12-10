@@ -1,0 +1,42 @@
+db.response.insert([
+    {
+        "id":1,
+        "response_heading":"Leadership",
+        "response_details":"Zonal and state commanders are responsible for providing effective leadership to the chaplains within their respective zones or states. This includes setting goals, establishing policies, and ensuring the overall well-being and development of the chaplains"
+    },
+    {
+        "id":2,
+        "response_heading":"Administration",
+        "response_details":"They are responsible for the administrative tasks within their zones or states. This may include managing budgets, coordinating training programs, organizing events, and maintaining records and reports"
+    },
+    {
+        "id":3,
+        "response_heading":"Supervision",
+        "response_details":"Zonal and state commanders are responsible for supervising and evaluating the performance of chaplains within their jurisdiction. They may provide guidance, support, and mentorship to ensure that chaplains are fulfilling their duties effectively"
+    },
+    {
+        "id":4,
+        "response_heading":"Communication",
+        "response_details":"They serve as a liaison between the national headquarters and the chaplains within their zones or states. This involves relaying information, policies, and directives from the higher authority to the chaplains, as well as communicating the needs and concerns of the chaplains to the higher authority"
+    },
+    {
+        "id":5,
+        "response_heading":"Training and Development",
+        "response_details":"Zonal and state commanders are responsible for organizing and overseeing training programs for chaplains within their jurisdiction. This includes identifying training needs, arranging workshops or seminars, and ensuring that chaplains receive ongoing professional development opportunities"
+    },
+    {
+        "id":6,
+        "response_heading":"Support and Guidance",
+        "response_details":"They provide support and guidance to chaplains in their zones or states. This may involve offering advice, counseling, or spiritual guidance to chaplains, as well as addressing any challenges or issues they may face in their roles"
+    },
+    {
+        "id":7,
+        "response_heading":"Representation",
+        "response_details":"Zonal and state commanders represent their organization at various meetings, conferences, and events within their jurisdiction. They may also participate in community outreach programs, engage with other organizations, and advocate for the interests and values of the Chaplain organization"
+    },
+    {
+        "id":8,
+        "response_heading":"Evaluation and Assessment",
+        "response_details":"They are responsible for evaluating the effectiveness and impact of the chaplaincy services within their zones or states. This may involve conducting assessments, gathering feedback from stakeholders, and implementing improvements or changes as necessary"
+    }
+])

@@ -1,0 +1,89 @@
+db.nav.insert([
+    {
+        "id":1,
+        "nav_id":1,
+        "nav_name":"home",
+        "information_id":1,
+        "nav_img":"https://i.ibb.co/pPQCxmw/ifrcc-logo1.png"
+    },
+    {
+        "id":2,
+        "nav_id":2,
+        "nav_name":"about us",
+        "information_id":2
+    },
+    {
+        "id":3,
+        "nav_id":3,
+        "nav_name":"purpose",
+        "information_id":3
+    },
+    {
+        "id":4,
+        "nav_id":4,
+        "nav_name":"gallery",
+        "information_id":4
+    },
+    {
+        "id":5,
+        "nav_id":5,
+        "nav_name":"programs",
+        "information_id":5
+    },
+    {
+        "id":6,
+        "nav_id":6,
+        "nav_name":"trainings",
+        "information_id":6
+    },
+    {
+        "id":7,
+        "nav_id":7,
+        "nav_name":"tasks",
+        "information_id":7
+    },
+    {
+        "id":8,
+        "nav_id":8,
+        "nav_name":"structures",
+        "information_id":8
+    },
+    {
+        "id":9,
+        "nav_id":9,
+        "nav_name":"objectives",
+        "information_id":9,
+        "nav_details":[
+            {
+                "nav_details_id":1,
+                "nav_details_info":"Providing spiritual and emotional support to first responders and their families during critical incidents and emergencies"
+            },
+            {
+                "nav_details_id":2,
+                "nav_details_info":"Training and equipping chaplains with the necessary skills and knowledge to effectively serve in emergency response settings"
+            },
+            {
+                "nav_details_id":3,
+                "nav_details_info":"Collaborating with emergency response agencies to integrate chaplaincy services into their operations and ensure seamless support for first responders"
+            },
+            {
+                "nav_details_id":4,
+                "nav_details_info":"Promoting the well-being and resilience of first responders by addressing their spiritual and emotional needs"
+            },
+            {
+                "nav_details_id":5,
+                "nav_details_info":"Advocating for the recognition and inclusion of chaplaincy services within emergency response systems and policies"
+            },
+            {
+                "nav_details_id":6,
+                "nav_details_info":"Establishing partnerships and collaborations with other organizations and stakeholders to enhance the reach and impact of chaplaincy organization"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "nav_id":10,
+        "nav_name":"contact us",
+        "information_id":10
+    }
+])

@@ -1,0 +1,37 @@
+db.carouselData.insert([
+    {
+        "id":1,
+        "nav_id":1,
+        "heading":"Pastoral education",
+        "img_url":"https://i.ibb.co/C80y0dr/pastoral-t.jpg",
+        "info":"Pastoral education and chaplaincy training units are specialized programs that provide education and training for individuals interested in pursuing a career in pastoral care and chaplaincy. These units are typically offered by hospitals, healthcare organizations, and religious institutions."
+    },
+    {
+        "id":2,
+        "nav_id":1,
+        "heading":"Pastoral education",
+        "img_url":"https://i.ibb.co/rxJvMSJ/pastoral-t2.jpg",
+        "info":"Pastoral education units focus on providing individuals with the knowledge and skills necessary to provide spiritual care and support to patients, families, and staff in healthcare settings. The curriculum often includes courses on theology, ethics, counseling, grief and loss, and religious diversity. Participants also engage in supervised clinical experiences, where they have the opportunity to apply their learning in real-life situations."
+    },
+    {
+        "id":3,
+        "nav_id":1,
+        "heading":"Chaplaincy training",
+        "img_url":"https://i.ibb.co/3dCmsH4/chaplaincy-1.jpg",
+        "info":"Chaplaincy training units, on the other hand, specifically prepare individuals to work as chaplains in various settings, such as hospitals, prisons, military, and universities. The training typically includes courses on religious and spiritual traditions, crisis intervention, cultural competency, and pastoral counseling. Participants also undergo supervised clinical training to develop their practical skills in providing spiritual care."
+    },
+    {
+        "id":4,
+        "nav_id":1,
+        "heading":"pastoral/chaplaincy",
+        "img_url":"https://i.ibb.co/Z1CpY2q/pastoral-chap.jpg",
+        "info":"Both pastoral education and chaplaincy training units aim to equip individuals with the necessary knowledge, skills, and personal development to effectively support individuals in their spiritual and emotional well-being. These programs often require a commitment of several months to a year, depending on the level of training desired."
+    },
+    {
+        "id":5,
+        "nav_id":1,
+        "heading":"Certification",
+        "img_url":"https://i.ibb.co/KW7kHhb/certification.jpg",
+        "info":"Upon completion of the program, individuals may pursue certification or licensure as a chaplain or continue their education in specialized areas of pastoral care. They may also find employment opportunities in hospitals, hospices, correctional facilities, military organizations, and other settings where spiritual care is needed."
+    }
+])
